@@ -12,6 +12,11 @@ Hi, I'm Bhoomika Sehgal , a passionate and results-driven Data Analyst, Business
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google_Slides-FABB05?style=for-the-badge&logo=google-slides&logoColor=white)
+![Google Forms](https://img.shields.io/badge/Google_Forms-673AB7?style=for-the-badge&logo=google-forms&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=132006-bhumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
