@@ -18,6 +18,9 @@ Hi, I'm Bhoomika Sehgal , a passionate and results-driven Data Analyst, Business
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Excel Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-00C2D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-000080?style=for-the-badge&logo=visual-basic&logoColor=white)
 
 
 
